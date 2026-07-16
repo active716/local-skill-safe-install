@@ -1,0 +1,9 @@
+﻿backups/
+*.bak-*
+SOURCE.txt
+SHA256.txt
+SECURITY_REPORT.md
+.env
+*.key
+*.pem
+
